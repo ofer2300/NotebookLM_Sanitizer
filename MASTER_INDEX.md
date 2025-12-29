@@ -3,8 +3,8 @@
 
 **Updated**: December 2024
 **Location**: `C:\AI_Staging\`
-**Total Projects**: 97
-**Total Size**: ~17 GB
+**Total Projects**: 114
+**Total Size**: ~21 GB
 **GitHub**: https://github.com/ofer2300/NotebookLM_Sanitizer
 
 ---
@@ -115,7 +115,7 @@
 
 ## Projects by Location
 
-### Tel Aviv (52 Projects)
+### Tel Aviv (62 Projects)
 | Code | Project | Folder | Size |
 |------|---------|--------|-----:|
 | 2228 | רדינג 22-24 | `Reading_22-24_TelAviv_2228` | 1.1 GB |
@@ -170,7 +170,7 @@
 | 2428 | ירמיהו 35 | `Yirmiyahu_35_TelAviv_2428` | 3.2 MB |
 | 2301 | ירמיהו 37 | `Yirmiyahu_37_TelAviv_2301` | 3.1 MB |
 
-### Central Israel (17 Projects)
+### Central Israel (23 Projects)
 | Code | Project | Folder | Size |
 |------|---------|--------|-----:|
 | 2409 | יובלים כפר יונה | `Yovalim_Project_Sanitized` | 4.3 GB |
@@ -216,7 +216,7 @@
 |------|---------|--------|-----:|
 | 2389 | עיר היין | `IrHaYayin_Ashkelon_2389` | 706 MB |
 
-### Other Locations (19 Projects)
+### Other Locations (20 Projects)
 | Code | Project | Folder | Size |
 |------|---------|--------|-----:|
 | 2258 | הקריה האקדמית פת | `AcademicCity_Pat_2258` | 2.4 GB |
@@ -367,16 +367,16 @@ DavidElazar_9_Raanana_2302        10 KB
 
 | Metric | Value |
 |--------|-------|
-| **Total Projects** | 97 |
-| **Total Size** | ~17 GB |
+| **Total Projects** | 114 |
+| **Total Size** | ~21 GB |
 | **Largest Project** | Yovalim Kfar Yona (4.3 GB) |
-| **Tel Aviv Projects** | 52 |
-| **Central Israel** | 17 |
+| **Tel Aviv Projects** | 62 |
+| **Central Israel** | 23 |
 | **Netanya** | 4 |
 | **Jerusalem** | 3 |
 | **Hadera** | 1 |
 | **Ashkelon** | 1 |
-| **Other** | 19 |
+| **Other** | 20 |
 | **Empty Projects** | 5 |
 
 ---
@@ -412,6 +412,13 @@ du -sh C:\AI_Staging\*/
 ---
 
 ## Skipped Projects (Not to work on)
+
+### 2021
+- 2024 - בורלא 13-15-17
+- 2031 - ליפסקי 10
+- 2033 - הלסינקי 13
+- 2041 - הופיין 6-10 תא
+
 
 ### 2022
 - 2242 - המוראים אנדרסון תא
