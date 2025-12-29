@@ -3,8 +3,8 @@
 
 **Updated**: December 2024
 **Location**: `C:\AI_Staging\`
-**Total Projects**: 114
-**Total Size**: ~21 GB
+**Total Projects**: 171
+**Total Size**: ~28 GB
 **GitHub**: https://github.com/ofer2300/NotebookLM_Sanitizer
 
 ---
@@ -367,8 +367,8 @@ DavidElazar_9_Raanana_2302        10 KB
 
 | Metric | Value |
 |--------|-------|
-| **Total Projects** | 114 |
-| **Total Size** | ~21 GB |
+| **Total Projects** | 171 |
+| **Total Size** | ~28 GB |
 | **Largest Project** | Yovalim Kfar Yona (4.3 GB) |
 | **Tel Aviv Projects** | 62 |
 | **Central Israel** | 23 |
@@ -412,6 +412,20 @@ du -sh C:\AI_Staging\*/
 ---
 
 ## Skipped Projects (Not to work on)
+
+### 2020
+- 1866 - שמעון התרסי 14 תא
+- 1869 - בן צבי 17 בית שמש
+- 1884 - מרים החשמונאית 10-20 תא
+- 1885 - נורדאו 88
+- 1889 - שמעון התרסי 1-3-5-7 תא
+- 1904 - משמר הגבול 8 ירושלים
+- 1905 - רמת הגולן 11 ירושלים
+- 1906 - נחל צין 2 ירושלים
+- 1921 - בורוכוב 38 גבעתיים
+- 1923 - הלסינקי 15 תא
+- 1946 - רמז 18 תא
+- 1950 - משה שרת 64 תא
 
 ### 2021
 - 2024 - בורלא 13-15-17
